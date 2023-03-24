@@ -32,6 +32,6 @@
 
 
 
-[site]: yuugencheck.epizy.com
+[site]: https://www.yuugencheck.epizy.com/?i=1
 [dc]: https://discord.gg/kMX9gM2Qpr
 [insta]: https://www.instagram.com/tyrrsama/
